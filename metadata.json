@@ -1,0 +1,6 @@
+{
+  "name": "FUTSAL SMPI AL AZHAR 21",
+  "description": "Aplikasi Web Daily Workout & Nutrition Tracking Atlet Futsal Profesional SMP-SMA Al Azhar 21 dengan Analitik Performa Pelatih, Sistem Pengingat, dan Ekspor Evaluasi PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
